@@ -1,0 +1,25 @@
+Sync with SharePoint
+Sync with team members in SharePoint Foundation 2010 or SharePoint Server 2010—now it’s easier than ever.
+With a simple click you can easily sync your Microsoft® Project Professional 2010 project plan with Microsoft SharePoint® Foundation 2010 (formerly Windows® SharePoint Services) for better collaboration with project stakeholders, including team members and executives. Users can view project information as a task list (similar to the Gantt Chart view) in SharePoint Foundation 2010, and syncing is bidirectional so project managers can send and receive task status updates—and all stakeholders stay informed.
+Step 1: Open Microsoft Office Backstage™ View
+A. To open Backstage view, click the File tab. 
+B. To access the Sync with Tasks List option, click the Share tab.
+Step 2: Sync with Tasks List
+Click Sync with Tasks List to automatically set up a new task list in SharePoint in a simple Gantt chart format. You can view the task list in SharePoint and sync the task list with Project at any time, including updates from team members such as revised tasks dates or percent complete for tasks.
+A. In Backstage view, on the Share tab, click Sync with Tasks List.
+B. In the preview pane, be sure that the entry in the Site URL field is correct, and then click Validate URL.
+C. Select an existing task list or enter the new name of the task list that will appear in SharePoint.
+D. Click the Sync button.
+ 
+Step 3: Sync for Updates or Changes
+You can easily sync when you make changes to your schedule in Project or to receive updates from the task list in SharePoint.
+A. In Backstage view, click the Info tab
+B. Click the Sync button.
+ 
+Step 4: Add Fields to Sync
+Project 2010 defaults to syncing the following fields: Name, Start, Finish, % Complete, Resource Names, and Predecessor. You can easily add more built-in or custom fields to sync.
+A. In Backstage view, click the Info tab.
+B. In the Sync to Tasks List area, click Manage Fields.
+C. Click Add Field, and then, in the Add Field dialog box, click the fields you want to add. Click the Add Field button, and then click OK.
+Note: You must have Microsoft SharePoint 2010 Server or Microsoft SharePoint Foundation 2010 to use this feature of Project 2010. In addition, syncing with SharePoint works only in Manually Scheduled task mode (Automatically Scheduled tasks will be changed to Manually Scheduled task mode) and with links that are finish-to-start, with no lag time. Also, if you have resource assignments associated with tasks, for them to be accepted into the SharePoint task list, the resources must be set up in SharePoint as users with the exact same name.
+
