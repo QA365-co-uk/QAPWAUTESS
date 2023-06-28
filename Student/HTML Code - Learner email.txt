@@ -1,0 +1,11 @@
+<h1 style="color:red;">File Moved</h1>
+The following file was moved to the <i>Final</i> folder
+<br><br>
+<table border="1">
+<tr>
+<th>File Name</th>
+</tr>
+<tr>
+<td>***</td>
+</tr>
+</table>
