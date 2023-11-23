@@ -1,0 +1,3 @@
+When a file is added to the root of OneDrive for Business, find my email address and then send me an email. In the email that is sent, include dynamic content from the trigger showing the file name and the last modified time.
+
+When I press a button find my email address and then send me an outlook email notification
