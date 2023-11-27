@@ -1,3 +1,0 @@
-Text for use in creating a dynamic URL for a Web App document
-
-<p><a href="[Url]">[DocumentName]</a></p>
