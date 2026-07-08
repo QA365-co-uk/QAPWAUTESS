@@ -1,0 +1,15 @@
+AFA STUDENT07 -		PC07-QAPWAUTESS-09072026
+
+	    Lab URL:	https://www.gotomypc.com/sc/4F69B3B298BE63C8D1CA119F380AB488
+
+	      Email:   	virtualroom15@qa.com
+	   Password:  	QARemoteClassroom#11
+
+	Access Code:	password7667
+	 IP Address:	192.168.1.107
+
+
+====================================================
+UserName: Agent07@QADelegate01006318.onmicrosoft.com
+Password: Apples-0907
+====================================================

@@ -1,0 +1,19 @@
+Adam		Agent01@QADelegate01006318.onmicrosoft.com
+Ailyn		Agent02@QADelegate01006318.onmicrosoft.com
+Ali		Agent03@QADelegate01006318.onmicrosoft.com
+Andrew		Agent04@QADelegate01006318.onmicrosoft.com
+Daniella	Agent05@QADelegate01006318.onmicrosoft.com
+Holly		Agent06@QADelegate01006318.onmicrosoft.com
+Nairn		Agent07@QADelegate01006318.onmicrosoft.com
+Nick		Agent08@QADelegate01006318.onmicrosoft.com
+Noemie		Agent09@QADelegate01006318.onmicrosoft.com
+Scott		Agent10@QADelegate01006318.onmicrosoft.com
+Seb		Agent11@QADelegate01006318.onmicrosoft.com
+Stephanie	Agent12@QADelegate01006318.onmicrosoft.com
+
+
+
+====================================================
+UserName: AgentXX@QADelegate01006318.onmicrosoft.com
+Password: Apples-0907
+====================================================

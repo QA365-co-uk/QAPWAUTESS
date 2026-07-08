@@ -1,0 +1,140 @@
+AFA STUDENT01 -		PC01-QAPWAUTESS-09072026
+
+	    Lab URL:	https://www.gotomypc.com/sc/C94A8CFA6578098A4F6A919F38095D63
+
+	      Email:   	virtualroom15@qa.com
+	   Password:  	QARemoteClassroom#11
+
+	Access Code:	password7667
+	 IP Address:	192.168.1.101
+
+
+
+AFA STUDENT02 -		PC02-QAPWAUTESS-09072026
+
+	    Lab URL:	https://www.gotomypc.com/sc/10CBF4B6A013E6B8F244F19F380990E3
+
+	      Email:   	virtualroom15@qa.com
+	   Password:  	QARemoteClassroom#11
+
+	Access Code:	password7667
+	 IP Address:	192.168.1.102
+
+
+
+AFA STUDENT03 -		PC03-QAPWAUTESS-09072026
+
+	    Lab URL:	https://www.gotomypc.com/sc/51B392C90B4C8FB89865919F3809C4E0
+
+	      Email:   	virtualroom15@qa.com
+	   Password:  	QARemoteClassroom#11
+
+	Access Code:	password7667
+	 IP Address:	192.168.1.103
+
+
+
+AFA STUDENT04 -		PC04-QAPWAUTESS-09072026
+
+	    Lab URL:	https://www.gotomypc.com/sc/5B09E02CA103FF290953319F3809FBBE
+
+	      Email:   	virtualroom15@qa.com
+	   Password:  	QARemoteClassroom#11
+
+	Access Code:	password7667
+	 IP Address:	192.168.1.104
+
+
+
+AFA STUDENT05 -		PC05-QAPWAUTESS-09072026
+
+	    Lab URL:	https://www.gotomypc.com/sc/8CFBCA05DE50E728B55C619F380A352C
+
+	      Email:   	virtualroom15@qa.com
+	   Password:  	QARemoteClassroom#11
+
+	Access Code:	password7667
+	 IP Address:	192.168.1.105
+
+
+
+AFA STUDENT06 -		PC06-QAPWAUTESS-09072026
+
+	    Lab URL:	https://www.gotomypc.com/sc/DCEBCBD94F51FB3FD372519F380A7349
+
+	      Email:   	virtualroom15@qa.com
+	   Password:  	QARemoteClassroom#11
+
+	Access Code:	password7667
+	 IP Address:	192.168.1.106
+
+
+
+AFA STUDENT07 -		PC07-QAPWAUTESS-09072026
+
+	    Lab URL:	https://www.gotomypc.com/sc/4F69B3B298BE63C8D1CA119F380AB488
+
+	      Email:   	virtualroom15@qa.com
+	   Password:  	QARemoteClassroom#11
+
+	Access Code:	password7667
+	 IP Address:	192.168.1.107
+
+
+
+AFA STUDENT08 -		PC08-QAPWAUTESS-09072026
+
+	    Lab URL:	https://www.gotomypc.com/sc/1EF777E52DC0B3F1E0EE319F380AEC30
+	      Email:   	virtualroom15@qa.com
+	   Password:  	QARemoteClassroom#11
+
+	Access Code:	password7667
+	 IP Address:	192.168.1.108
+
+
+
+AFA STUDENT09 -		PC09-QAPWAUTESS-09072026
+
+	    Lab URL:	https://www.gotomypc.com/sc/5193A499B914DA83B1C5219F381AF8DF
+
+	      Email:   	virtualroom15@qa.com
+	   Password:  	QARemoteClassroom#11
+
+	Access Code:	password7667
+	 IP Address:	192.168.1.109
+
+
+
+AFA STUDENT10 -		PC10-QAPWAUTESS-09072026
+
+	    Lab URL:	https://www.gotomypc.com/sc/FCE8FBAD9CECC1750ED3C19F381B355F
+
+	      Email:   	virtualroom15@qa.com
+	   Password:  	QARemoteClassroom#11
+
+	Access Code:	password7667
+	 IP Address:	192.168.1.110
+
+
+
+AFA STUDENT11 -		PC11-QAPWAUTESS-09072026
+
+	    Lab URL:	https://www.gotomypc.com/sc/0DD70C822DDB3FBA8F7C819F381B728A
+
+	      Email:   	virtualroom15@qa.com
+	   Password:  	QARemoteClassroom#11
+
+	Access Code:	password7667
+	 IP Address:	192.168.1.111
+
+
+
+AFA STUDENT12 -		PC12-QAPWAUTESS-09072026
+
+	    Lab URL:	https://www.gotomypc.com/sc/5B27894B2431131F295B719F380B3AE8
+
+	      Email:   	virtualroom15@qa.com
+	   Password:  	QARemoteClassroom#11
+
+	Access Code:	password7667
+	 IP Address:	192.168.1.112
